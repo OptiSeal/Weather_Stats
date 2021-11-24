@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1590115138 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\date.cpp
+	"DATE.h"
+
+1590115440 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\date.h
+	<iostream>
+
+1591620130 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+	<map>
+	<iterator>
+	"WeatherType.h"
+	"PeriodIndexType.h"
+	"BST.h"
+	"COLLECTDATA.h"
+	"DATE.h"
+	"TIME.h"
+	"Vector.h"
+	"UTILITIES.h"
+	"MENU.h"
+
+1591612312 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weathertype.h
+	<map>
+	"DateTime.h"
+	"WeatherData.h"
+	"Vector.h"
+	"BST.h"
+	"COLLECTDATA.h"
+
+1591552854 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\datetime.h
+	"DATE.h"
+	"TIME.h"
+	"Vector.h"
+
+1591282980 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\time.h
+
+1589102084 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\vector.h
+	<vector>
+
+1591541502 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weatherdata.h
+
+1591612772 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\bst.h
+	<iostream>
+
+1591109326 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\collectdata.h
+	"BST.h"
+	"VECTOR.h"
+
+1591605436 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\periodindextype.h
+	<string>
+	"UTILITIES.h"
+
+1588653960 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\utilities.h
+	<string>
+	<math.h>
+	"Vector.h"
+
+1591591416 e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\menu.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	"WeatherType.h"
+	"Vector.h"
+	"UTILITIES.h"
+
+1591591426 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\menu.cpp
+	"MENU.h"
+
+1591286474 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\time.cpp
+	"TIME.h"
+
+1588512504 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\utilities.cpp
+	"UTILITIES.h"
+
+1591588396 source:e:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weathertype.cpp
+	"WeatherType.h"
+
+1591848472 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\date.cpp
+	"DATE.h"
+
+1591848472 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\date.h
+
+1591799474 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\menu.cpp
+	"MENU.h"
+
+1591851492 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\menu.h
+	<iostream>
+	<map>
+	<cmath>
+	"STRUCTS.h"
+	"PeriodIndex.h"
+	"VECTOR.h"
+	"UTILITIES.h"
+	"INPUT_OUTPUT.h"
+
+1591843510 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weathertype.h
+	<map>
+	"DateTime.h"
+	"WeatherData.h"
+	"PeriodIndex.h"
+	"Vector.h"
+	"BST.h"
+	"COLLECTDATA.h"
+
+1591844144 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\datetime.h
+	"DATE.h"
+	"TIME.h"
+	"Vector.h"
+
+1591282980 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\time.h
+
+1589102084 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\vector.h
+	<vector>
+
+1591671910 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weatherdata.h
+
+1591622344 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\periodindextype.h
+	<string>
+	"UTILITIES.h"
+
+1591846318 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\utilities.h
+	<string>
+	<math.h>
+	"VECTOR.h"
+
+1591679828 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\bst.h
+	<iostream>
+
+1591109326 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\collectdata.h
+	"BST.h"
+	"VECTOR.h"
+
+1591286474 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\time.cpp
+	"TIME.h"
+
+1588512504 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\utilities.cpp
+	"UTILITIES.h"
+
+1591843574 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\weathertype.cpp
+	"WeatherType.h"
+
+1591850428 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	"STRUCTS.h"
+	"PeriodIndex.h"
+	"BST.h"
+	"VECTOR.h"
+	"MENU.h"
+	"INPUT_OUTPUT.h"
+
+1591850362 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\input_output.h
+	<fstream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<math.h>
+	<map>
+	"DATE.h"
+	"TIME.h"
+	"VECTOR.h"
+	"STRUCTS.h"
+	"UTILITIES.h"
+
+1591850456 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\input_output.cpp
+	"INPUT_OUTPUT.h"
+
+1591843880 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\periodindex.h
+	<string>
+
+1591843504 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\periodindex.cpp
+	"PERIODINDEX.h"
+
+1591850346 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\structs.h
+	<map>
+	"DATE.h"
+	"TIME.h"
+	"PERIODINDEX.h"
+	"VECTOR.h"
+	"BST.h"
+	"COLLECTDATA.h"
+
+1591848646 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstatstesting\structs.cpp
+	"STRUCTS.h"
+
+1591862854 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\date.cpp
+	"DATE.h"
+
+1591862854 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\date.h
+
+1591924776 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\menu.cpp
+	"MENU.h"
+
+1591923272 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\menu.h
+	<cmath>
+	"INPUT_OUTPUT.h"
+
+1591865784 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\input_output.h
+	<fstream>
+	<cstring>
+	<sstream>
+	<iomanip>
+	"STRUCTS.h"
+
+1591866596 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\structs.h
+	<map>
+	"DATE.h"
+	"TIME.h"
+	"PERIODINDEX.h"
+	"COLLECTDATA.h"
+	"UTILITIES.h"
+
+1591282980 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\time.h
+
+1591865742 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\periodindex.h
+	<string>
+
+1591865728 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\collectdata.h
+	"BST.h"
+	"VECTOR.h"
+
+1591865718 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\bst.h
+	<iostream>
+
+1589102084 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\vector.h
+	<vector>
+
+1591865928 i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\utilities.h
+	<string>
+	<math.h>
+	"VECTOR.h"
+
+1591862990 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\periodindex.cpp
+	"PERIODINDEX.h"
+
+1591866596 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\structs.cpp
+	"STRUCTS.h"
+
+1591862992 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\time.cpp
+	"TIME.h"
+
+1591862992 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\utilities.cpp
+	"UTILITIES.h"
+
+1591933458 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\main.cpp
+	"library/MENU.h"
+
+1591933698 source:i:\university\y2 semester 1\ict283 - data structures\assignment 2\weatherstats\library\input_output.cpp
+	"INPUT_OUTPUT.h"
+

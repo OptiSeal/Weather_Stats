@@ -1,0 +1,24 @@
+Files have been checked for viruses and malware using 
+AVG Internet Security 2020 Version 20.3.3120 (build 20.3.5200.575)
+
+
+WEATHERSTATS PROGRAM
+
+	What works: * Program works according to all brief specifications.
+		    * STL map and templated BST have been used in the program.
+	    
+
+	What does not work: N/A
+
+
+	Other notes: * When printing data to the file (option 4), it appends to the file rather than removing existing contents before writing the data.
+	/assumptions * The minimum and maximum years allowed were added to the main.cpp file as global const variables to allow the user to change the valid year range
+		       it was decided not to place this in the DATE class as these year restrictions are specific to the client brief.
+		     * Input and output file names were also added to the main.cpp file as global const variables to allow the user to change the names and directory of
+			of their location.
+		     * The status of reading each file when the program executes is displayed to show the user the program is running normally.
+		       Duplicate and incorrect date/times will be displayed to the user during reading of each file if these issues occur.
+		     * The program will discard duplicate or incorrect observation date/times that occur when calculating results.
+ 		     * All functions (other than main()) have been moved to dedicated files. These are explained in the main.cpp file for more information.
+
+END
